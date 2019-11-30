@@ -19,7 +19,7 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 | 口语卡片 | ![口语卡片](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard1.png) |
 | 口语卡片训练 | ![口语卡片训练](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard5.png) |
 | 进度统计 | ![进度统计](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/Schedule.png) |
-| 侧边栏 | ![侧边栏](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SideDrawer.png) |
+| 侧边栏 | ![侧边栏](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SideDrawer1.png) |
 | 登录 | ![登录](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/Login.png) |
 
 <br/>
