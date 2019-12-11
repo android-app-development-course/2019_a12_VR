@@ -14,13 +14,14 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 
 | 页面 | 图片展示 |
 | :----: | :----: |
-| 启动页 | ![启动页](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/LaunchPage1.png) |
-| VR实验室 | ![VR实验室](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/LaunchPage3.png) |
-| 口语卡片 | ![口语卡片](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard1.png) |
-| 口语卡片训练 | ![口语卡片训练](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard5.png) |
-| 进度统计 | ![进度统计](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/Schedule.png) |
-| 侧边栏 | ![侧边栏](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/SideDrawer1.png) |
-| 登录 | ![登录](https://github.com/android-app-development-course/2019-B12-VR/blob/master/ProjectDocument/UI-Design/Screenshot/Login.png) |
+| 启动页 | ![启动页](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/LaunchPage1.png) |
+| 引导页 | ![VR实验室](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/LaunchPage3.png) |
+| VR实验室 | ![VR实验室](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/VRLab1.png) |
+| 口语卡片 | ![口语卡片](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard1.png) |
+| 口语卡片训练 | ![口语卡片训练](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/SpeechCard5.png) |
+| 进度统计 | ![进度统计](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/Schedule.png) |
+| 侧边栏 | ![侧边栏](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/SideDrawer1.png) |
+| 登录 | ![登录](https://github.com/android-app-development-course/2019_a12_VR/blob/master/ProjectDocument/UI-Design/Screenshot/Login.png) |
 
 <br/>
 <br/>
@@ -29,23 +30,25 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 
 ```python
 #树形图
-- Project Document
-  |- “VR口吃治疗与训练”产品方案设计.pdf
-  |- UI-Design
-      |- Video
-      |- ScreenShot
-      |- UI设计 VR口吃治疗APP.ppt
-      |- Full-UI-Design.jpg
-      
-- README.md
-
+├── Project Document
+│      ├── Project-Intro
+│      │      ├── “VR口吃治疗与训练”产品方案设计.pdf
+│      │      └── 口吃项目介绍.pptx
+│      │     
+│      └── UI-Design
+│       	├── Video
+│        	├── ScreenShot
+│        	├── UI设计 VR口吃治疗APP.pptx
+│        	└── Full-UI-Design.jpg
+│    
+└──  README.md
 ```
 
 <br/>
 <br/>
 
 ## 开发介绍
-* 基于Android Studio（Java）与Unity 3D（C#）开发
+* 基于Android Studio（Java and Kotlin mixed）与Unity 3D（C#）开发
 * 待补充
 
 <br/>
