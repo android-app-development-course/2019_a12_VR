@@ -44,12 +44,14 @@ _《基于人工智能与VR的口吃治疗训练相关技术研究与应用》_
 │      │      ├── UI设计 VR口吃治疗APP.pptx
 │      │      └── Full-UI-Design.jpg
 │      │ 
-│      └── Final-Sum
-│              ├── Video
-│              ├── ScreenShot
-│              ├── “VR口吃治疗与训练”APP项目完成情况汇报.pdf
-│              └── apk文件过大不在此提供.md
-│ 
+│      ├── Final-Sum
+│      │      ├── Video
+│      │      ├── ScreenShot
+│      │      ├── “VR口吃治疗与训练”最终汇报.pptx
+│      │      └── apk文件过大不在此提供.md
+│      │ 
+│      └── “VR口吃治疗与训练”APP系统开发说明文档.pdf
+│      
 └──  README.md
 ```
 
